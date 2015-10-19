@@ -3,4 +3,6 @@ __author__ = 'kdougla01'
 
 print ("hello world")
 
-print ("My name is ...")
+name = input("What is your name?")
+
+print (name)
